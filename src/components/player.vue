@@ -118,7 +118,7 @@
       LineControl,
       VolumeControl
     },
-    mounted: function() {
+    mounted() {
       this.player = document.getElementById(this.playerUniqId)
 
       this.player.addEventListener('ended', () => {
