@@ -40,7 +40,7 @@
   "main": "dist/vue-audio-recorder.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grishkovelli/vue-audio-recorder.git"
+    "url": "git+https://github.com/sdbakker/vue-audio-recorder.git"
   },
   "keywords": [
     "vue",
